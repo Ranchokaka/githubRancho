@@ -6,5 +6,6 @@ int main(int argc, const char *argv[])
 	int sum=0;
 	sum =i+j;
 	print("%d\n",sum);
+        print("wahahahah");
 	return 0;
 }
